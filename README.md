@@ -2,9 +2,8 @@
 <p align='center'>
 I'm Maelle.
 </p>
-<p align='center'>Drupal developer </p>
-![Alt text](./img/drupal.svg)
-<img src="./img/drupal.svg" height="50rem">
+<p align='center'>Drupal developer <img src="./img/drupal.svg" height="30" align='center'> </p>
+
 <h1 align='center'><i>Nice day!</i></h1>
 
 
