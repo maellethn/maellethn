@@ -5,9 +5,3 @@ I'm Maelle.
 <p align='center'>PHP / Symfony / Drupal developer <img src="./img/drupal.svg" height="30" align='center'> </p>
 
 <h1 align='center'><i>Nice day!</i></h1>
-
-
-[![](https://raw.githubusercontent.com/maellethn/maellethn/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/maellethn/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/maellethn/maellethn/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/maellethn/github-profile-summary-cards) [![](https://raw.githubusercontent.com/maellethn/maellethn/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/maellethn/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/maellethn/maellethn/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/maellethn/github-profile-summary-cards) 
-
