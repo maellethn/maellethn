@@ -1,7 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 👩‍💻 Bienvenue sur mon profil GitHub!
-  ![Bannière](https://via.placeholder.com/1200x300.png?text=Bienvenue+sur+mon+Profil+GitHub)
 </p>
 
 Je suis une développeuse passionnée spécialisée en PHP, Symfony et Drupal. Avec plusieurs années d'expérience dans le développement web, j'ai travaillé sur divers projets allant de petites applications web à des sites complexes pour des clients variés.
